@@ -1,0 +1,15 @@
+D:\CursoC#\projeto\projeto\bin\Debug\net6.0\projeto.exe
+D:\CursoC#\projeto\projeto\bin\Debug\net6.0\projeto.deps.json
+D:\CursoC#\projeto\projeto\bin\Debug\net6.0\projeto.runtimeconfig.json
+D:\CursoC#\projeto\projeto\bin\Debug\net6.0\projeto.dll
+D:\CursoC#\projeto\projeto\bin\Debug\net6.0\projeto.pdb
+D:\CursoC#\projeto\projeto\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+D:\CursoC#\projeto\projeto\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#\projeto\projeto\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+D:\CursoC#\projeto\projeto\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+D:\CursoC#\projeto\projeto\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+D:\CursoC#\projeto\projeto\obj\Debug\net6.0\projeto.dll
+D:\CursoC#\projeto\projeto\obj\Debug\net6.0\refint\projeto.dll
+D:\CursoC#\projeto\projeto\obj\Debug\net6.0\projeto.pdb
+D:\CursoC#\projeto\projeto\obj\Debug\net6.0\projeto.genruntimeconfig.cache
+D:\CursoC#\projeto\projeto\obj\Debug\net6.0\ref\projeto.dll

@@ -1,0 +1,15 @@
+D:\CursoC#\avaliacao\nota\bin\Debug\net6.0\nota.exe
+D:\CursoC#\avaliacao\nota\bin\Debug\net6.0\nota.deps.json
+D:\CursoC#\avaliacao\nota\bin\Debug\net6.0\nota.runtimeconfig.json
+D:\CursoC#\avaliacao\nota\bin\Debug\net6.0\nota.dll
+D:\CursoC#\avaliacao\nota\bin\Debug\net6.0\nota.pdb
+D:\CursoC#\avaliacao\nota\obj\Debug\net6.0\nota.csproj.AssemblyReference.cache
+D:\CursoC#\avaliacao\nota\obj\Debug\net6.0\nota.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#\avaliacao\nota\obj\Debug\net6.0\nota.AssemblyInfoInputs.cache
+D:\CursoC#\avaliacao\nota\obj\Debug\net6.0\nota.AssemblyInfo.cs
+D:\CursoC#\avaliacao\nota\obj\Debug\net6.0\nota.csproj.CoreCompileInputs.cache
+D:\CursoC#\avaliacao\nota\obj\Debug\net6.0\nota.dll
+D:\CursoC#\avaliacao\nota\obj\Debug\net6.0\refint\nota.dll
+D:\CursoC#\avaliacao\nota\obj\Debug\net6.0\nota.pdb
+D:\CursoC#\avaliacao\nota\obj\Debug\net6.0\nota.genruntimeconfig.cache
+D:\CursoC#\avaliacao\nota\obj\Debug\net6.0\ref\nota.dll

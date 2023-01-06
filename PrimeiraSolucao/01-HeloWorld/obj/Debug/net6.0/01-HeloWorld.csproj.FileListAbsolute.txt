@@ -1,0 +1,15 @@
+D:\CursoC#\PrimeiraSolucao\01-HeloWorld\bin\Debug\net6.0\01-HeloWorld.exe
+D:\CursoC#\PrimeiraSolucao\01-HeloWorld\bin\Debug\net6.0\01-HeloWorld.deps.json
+D:\CursoC#\PrimeiraSolucao\01-HeloWorld\bin\Debug\net6.0\01-HeloWorld.runtimeconfig.json
+D:\CursoC#\PrimeiraSolucao\01-HeloWorld\bin\Debug\net6.0\01-HeloWorld.dll
+D:\CursoC#\PrimeiraSolucao\01-HeloWorld\bin\Debug\net6.0\01-HeloWorld.pdb
+D:\CursoC#\PrimeiraSolucao\01-HeloWorld\obj\Debug\net6.0\01-HeloWorld.csproj.AssemblyReference.cache
+D:\CursoC#\PrimeiraSolucao\01-HeloWorld\obj\Debug\net6.0\01-HeloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#\PrimeiraSolucao\01-HeloWorld\obj\Debug\net6.0\01-HeloWorld.AssemblyInfoInputs.cache
+D:\CursoC#\PrimeiraSolucao\01-HeloWorld\obj\Debug\net6.0\01-HeloWorld.AssemblyInfo.cs
+D:\CursoC#\PrimeiraSolucao\01-HeloWorld\obj\Debug\net6.0\01-HeloWorld.csproj.CoreCompileInputs.cache
+D:\CursoC#\PrimeiraSolucao\01-HeloWorld\obj\Debug\net6.0\01-HeloWorld.dll
+D:\CursoC#\PrimeiraSolucao\01-HeloWorld\obj\Debug\net6.0\refint\01-HeloWorld.dll
+D:\CursoC#\PrimeiraSolucao\01-HeloWorld\obj\Debug\net6.0\01-HeloWorld.pdb
+D:\CursoC#\PrimeiraSolucao\01-HeloWorld\obj\Debug\net6.0\01-HeloWorld.genruntimeconfig.cache
+D:\CursoC#\PrimeiraSolucao\01-HeloWorld\obj\Debug\net6.0\ref\01-HeloWorld.dll

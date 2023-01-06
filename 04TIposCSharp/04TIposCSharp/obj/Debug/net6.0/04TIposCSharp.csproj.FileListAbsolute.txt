@@ -1,0 +1,15 @@
+D:\CursoC#\04TIposCSharp\04TIposCSharp\bin\Debug\net6.0\04TIposCSharp.exe
+D:\CursoC#\04TIposCSharp\04TIposCSharp\bin\Debug\net6.0\04TIposCSharp.deps.json
+D:\CursoC#\04TIposCSharp\04TIposCSharp\bin\Debug\net6.0\04TIposCSharp.runtimeconfig.json
+D:\CursoC#\04TIposCSharp\04TIposCSharp\bin\Debug\net6.0\04TIposCSharp.dll
+D:\CursoC#\04TIposCSharp\04TIposCSharp\bin\Debug\net6.0\04TIposCSharp.pdb
+D:\CursoC#\04TIposCSharp\04TIposCSharp\obj\Debug\net6.0\04TIposCSharp.csproj.AssemblyReference.cache
+D:\CursoC#\04TIposCSharp\04TIposCSharp\obj\Debug\net6.0\04TIposCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#\04TIposCSharp\04TIposCSharp\obj\Debug\net6.0\04TIposCSharp.AssemblyInfoInputs.cache
+D:\CursoC#\04TIposCSharp\04TIposCSharp\obj\Debug\net6.0\04TIposCSharp.AssemblyInfo.cs
+D:\CursoC#\04TIposCSharp\04TIposCSharp\obj\Debug\net6.0\04TIposCSharp.csproj.CoreCompileInputs.cache
+D:\CursoC#\04TIposCSharp\04TIposCSharp\obj\Debug\net6.0\04TIposCSharp.dll
+D:\CursoC#\04TIposCSharp\04TIposCSharp\obj\Debug\net6.0\refint\04TIposCSharp.dll
+D:\CursoC#\04TIposCSharp\04TIposCSharp\obj\Debug\net6.0\04TIposCSharp.pdb
+D:\CursoC#\04TIposCSharp\04TIposCSharp\obj\Debug\net6.0\04TIposCSharp.genruntimeconfig.cache
+D:\CursoC#\04TIposCSharp\04TIposCSharp\obj\Debug\net6.0\ref\04TIposCSharp.dll

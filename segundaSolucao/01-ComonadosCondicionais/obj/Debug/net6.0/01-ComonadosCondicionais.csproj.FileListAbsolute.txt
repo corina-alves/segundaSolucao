@@ -1,0 +1,15 @@
+D:\CursoC#\segundaSolucao\01-ComonadosCondicionais\bin\Debug\net6.0\01-ComonadosCondicionais.exe
+D:\CursoC#\segundaSolucao\01-ComonadosCondicionais\bin\Debug\net6.0\01-ComonadosCondicionais.deps.json
+D:\CursoC#\segundaSolucao\01-ComonadosCondicionais\bin\Debug\net6.0\01-ComonadosCondicionais.runtimeconfig.json
+D:\CursoC#\segundaSolucao\01-ComonadosCondicionais\bin\Debug\net6.0\01-ComonadosCondicionais.dll
+D:\CursoC#\segundaSolucao\01-ComonadosCondicionais\bin\Debug\net6.0\01-ComonadosCondicionais.pdb
+D:\CursoC#\segundaSolucao\01-ComonadosCondicionais\obj\Debug\net6.0\01-ComonadosCondicionais.csproj.AssemblyReference.cache
+D:\CursoC#\segundaSolucao\01-ComonadosCondicionais\obj\Debug\net6.0\01-ComonadosCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#\segundaSolucao\01-ComonadosCondicionais\obj\Debug\net6.0\01-ComonadosCondicionais.AssemblyInfoInputs.cache
+D:\CursoC#\segundaSolucao\01-ComonadosCondicionais\obj\Debug\net6.0\01-ComonadosCondicionais.AssemblyInfo.cs
+D:\CursoC#\segundaSolucao\01-ComonadosCondicionais\obj\Debug\net6.0\01-ComonadosCondicionais.csproj.CoreCompileInputs.cache
+D:\CursoC#\segundaSolucao\01-ComonadosCondicionais\obj\Debug\net6.0\01-ComonadosCondicionais.dll
+D:\CursoC#\segundaSolucao\01-ComonadosCondicionais\obj\Debug\net6.0\refint\01-ComonadosCondicionais.dll
+D:\CursoC#\segundaSolucao\01-ComonadosCondicionais\obj\Debug\net6.0\01-ComonadosCondicionais.pdb
+D:\CursoC#\segundaSolucao\01-ComonadosCondicionais\obj\Debug\net6.0\01-ComonadosCondicionais.genruntimeconfig.cache
+D:\CursoC#\segundaSolucao\01-ComonadosCondicionais\obj\Debug\net6.0\ref\01-ComonadosCondicionais.dll
